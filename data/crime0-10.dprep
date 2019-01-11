@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 59,
+  "id": "1ba93a7c-e711-464f-9a70-1c491e28a66f",
+  "activities": [
+    {
+      "id": "75637565-60ad-4baa-87d3-396a7930cfe7",
+      "name": "crime0-10",
+      "blocks": [
+        {
+          "id": "ba5a8061-129e-4618-953a-ce3e89c8f2cb",
+          "type": "Microsoft.DPrep.GetFilesBlock",
+          "arguments": {
+            "path": {
+              "target": 0,
+              "resourceDetails": [
+                {
+                  "path": "./crime0-10.csv"
+                }
+              ]
+            }
+          },
+          "isEnabled": true,
+          "name": null,
+          "annotation": null
+        },
+        {
+          "id": "1b345643-6b60-4ca1-99f9-2a64ae932a23",
+          "type": "Microsoft.DPrep.ParseDelimitedBlock",
+          "arguments": {
+            "columnHeadersMode": 1,
+            "fileEncoding": 0,
+            "handleQuotedLineBreaks": false,
+            "preview": false,
+            "separator": ",",
+            "skipRowsMode": 0
+          },
+          "isEnabled": true,
+          "name": null,
+          "annotation": null
+        },
+        {
+          "id": "12cf73a2-1487-4915-bfa7-c86be7de08c0",
+          "type": "Microsoft.DPrep.SetColumnTypesBlock",
+          "arguments": {
+            "columnConversion": [
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "ID"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "IUCR"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Domestic"
+                  }
+                },
+                "typeProperty": 1
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Beat"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "District"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Ward"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Community Area"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Year"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Longitude"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Arrest"
+                  }
+                },
+                "typeProperty": 1
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "X Coordinate"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Updated On"
+                  }
+                },
+                "typeArguments": {
+                  "dateTimeFormats": [
+                    "%m/%d/%Y %I:%M:%S %p"
+                  ]
+                },
+                "typeProperty": 4
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Date"
+                  }
+                },
+                "typeArguments": {
+                  "dateTimeFormats": [
+                    "%m/%d/%Y %I:%M:%S %p"
+                  ]
+                },
+                "typeProperty": 4
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Y Coordinate"
+                  }
+                },
+                "typeProperty": 3
+              },
+              {
+                "column": {
+                  "type": 2,
+                  "details": {
+                    "selectedColumn": "Latitude"
+                  }
+                },
+                "typeProperty": 3
+              }
+            ]
+          },
+          "isEnabled": true,
+          "name": null,
+          "annotation": null
+        },
+        {
+          "id": "5f370fdf-2fde-4f18-8069-93ef5800bf0c",
+          "type": "Microsoft.DPrep.SampleBlock",
+          "arguments": {
+            "activeSample": "0afde520-3a41-4fef-8d20-eaa07d588924",
+            "samples": [
+              {
+                "allowAutoGen": true,
+                "isDisabled": false,
+                "sampleId": "0afde520-3a41-4fef-8d20-eaa07d588924",
+                "sampleName": "Top 10000",
+                "sampleRevision": "d8663336-152a-462f-bb57-686dc7a0843c",
+                "sampleRunner": {
+                  "id": null,
+                  "type": 0
+                },
+                "sampleStrategy": 0,
+                "topArguments": {
+                  "sampleCount": 10000
+                }
+              }
+            ]
+          },
+          "isEnabled": true,
+          "name": null,
+          "annotation": null
+        },
+        {
+          "id": "dfd62543-9285-412b-a930-0aeaaffde699",
+          "type": "Microsoft.DPrep.HandlePathColumnBlock",
+          "arguments": {
+            "pathColumnOperation": 0
+          },
+          "isEnabled": true,
+          "name": null,
+          "annotation": null
+        }
+      ],
+      "inspectors": []
+    }
+  ],
+  "runConfigurations": []
+}

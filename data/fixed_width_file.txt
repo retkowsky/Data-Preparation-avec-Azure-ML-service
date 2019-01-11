@@ -1,0 +1,428 @@
+010000 99999 BOGUS NORWAY                  NO NO    ENRS                       
+010003 99999 BOGUS NORWAY                  NO NO    ENSO                       
+010010 99999 JAN MAYEN                     NO JN    ENJA  +70933 -008667 +00090
+010013 99999 ROST                          NO NO                               
+010014 99999 SOERSTOKKEN                   NO NO    ENSO  +59783 +005350 +00500
+010015 99999 BRINGELAND                    NO NO    ENBL  +61383 +005867 +03270
+010016 99999 RORVIK/RYUM                   NO NO          +64850 +011233 +00140
+010017 99999 FRIGG                         NO NO    ENFR  +59933 +002417 +00480
+010020 99999 VERLEGENHUKEN                 NO SV          +80050 +016250 +00080
+010030 99999 HORNSUND                      NO SV          +77000 +015500 +00120
+010040 99999 NY-ALESUND II                 NO SV    ENAS  +78917 +011933 +00080
+010050 99999 ISFJORD RADIO                 NO NO    ENIS  +78067 +013633 +00050
+010060 99999 EDGEOYA                       NO NO          +78250 +022783 +00140
+010070 99999 NY-ALESUND                    NO SV          +78917 +011933 +00180
+010071 99999                                                                   
+010080 99999 SVALBARD LUFTHAVN             NO SV    ENSB  +78250 +015467 +00290
+010090 99999 KARL XII OYA                  NO SV          +80667 +025000 +00050
+010100 99999 ANDOYA                        NO NO    ENAN  +69300 +016133 +00140
+010110 99999 KVITOYA                       NO SV          +80100 +031400 +00160
+010120 99999                                                                   
+010140 99999 SENJA-LAUKHELLA               NO NO          +69233 +017900 +00090
+010150 99999 HEKKINGEN FYR                 NO NO          +69600 +017833 +00140
+010160 99999 SENJA-GRASMYRSKOGEN           NO NO          +69283 +017767 +00500
+010170 99999 GIBOSTAD                      NO NO          +69350 +018083 +00120
+010230 99999 BARDUFOSS                     NO NO    ENDU  +69067 +018533 +00790
+010231 99999 DRAUGEN                       NO NO    ENDR  +64349 +007800 +00000
+010240 99999                                                                   
+010250 99999 TROMSO/LANGNES                NO NO    ENTC  +69683 +018917 +00100
+010260 99999 TROMSO                        NO NO          +69650 +018933 +01150
+010280 99999 BJORNOYA                      NO SV    ENBJ  +74517 +019017 +00160
+010300 99999                                                                   
+010320 99999 OVERBYGD                      NO NO          +69017 +019283 +00780
+010330 99999 TORSVAG FYR                   NO NO          +70250 +019500 +00240
+010340 99999 FUGLOYKALVEN FYR              NO NO          +70317 +020150 +00380
+010350 99999 OTEREN                        NO NO          +69250 +019883 +00120
+010360 99999 SKIBOTIN                      NO NO          +69367 +020267 +00050
+010370 99999 SKIBOTN2                      NO NO          +69383 +020267 +00060
+010400 99999 SKJERVOY                      NO NO          +70033 +020983 +00150
+010410 99999 NORDREISA-OYENG               NO NO          +69733 +021017 +00050
+010430 99999 LOPPA                         NO NO          +70333 +021467 +00110
+010435 99999 HASVIK                        NO NO    ENHK  +70483 +022150 +00070
+010450 99999 NORDSTRAUM I KVAENA           NO NO          +69833 +021883 +00060
+010455 99999                                                                   
+010460 99999 SORKJOSEN                     NO NO    ENSR  +69783 +020967 +00060
+010470 99999 KAUTOKEINO                    NO NO    ENKA  +69000 +023033 +03070
+010490 99999 ALTA LUFTHAVN                 NO NO    ENAT  +69983 +023367 +00030
+010510 99999 SUOLOVUOPMI                   NO NO          +69583 +023533 +03740
+010520 99999 HAMMERFEST                    NO NO    ENHF  +70667 +023667 +00810
+010530 99999 HAMMERFEST RADIO              NO NO          +70683 +023683 +00700
+010550 99999 FRUHOLMEN FYR                 NO NO          +71100 +024000 +00140
+010570 99999 CUOVDDATMOHKKI                NO NO          +69367 +024433 +02860
+010580 99999 SUOLOVUOPMI LULIT             NO NO          +69567 +023533 +03810
+010590 99999 BANAK                         NO NO    ENNA  +70067 +024983 +00080
+010610 99999 BRENNELV                      NO NO          +70067 +025117 +00340
+010617 99999 OSEBERG                       NO NO                               
+010620 99999 HOPEN                         NO SV    ENHO  +76500 +025067 +00100
+010630 99999 KISTRAND III                  NO NO          +70450 +025217 +00060
+010650 99999 KARASJOK                      NO NO          +69467 +025517 +01330
+010660 99999 HELNES FYR                    NO NO          +71067 +026233 +00330
+010670 99999 LEVAJOK-EVJEN                 NO NO          +69900 +026417 +01120
+010671 99999                                                                   
+010680 99999 HONNINGSVAG/VALAN             NO NO    ENHV  +71017 +025983 +00140
+010720 99999                                                                   
+010740 99999 MEHAMN                        NO NO    ENMH  +71033 +027833 +00130
+010750 99999 RUSTEFJELBMA                  NO NO          +70400 +028200 +00110
+010780 99999 SLETTNES FYR                  NO NO          +71100 +028217 +00100
+010820 99999 NYBORG                        NO NO          +70167 +028567 +00150
+010830 99999 BERLEVAG                      NO NO    ENBV  +70867 +029033 +00130
+010840 99999 PASVIK                        NO NO          +69167 +029250 +00540
+010850 99999 BUGOYFJORD                    NO NO          +69850 +029417 +00080
+010880 99999 VADSO                         NO NO    ENVD  +70067 +029850 +00390
+010881 99999 NARVIK III/FRAMNES            NO NO    ENNK  +68467 +017500 +00230
+010882 99999 ROEROS                        NO NO    ENRO  +62567 +011333 +06420
+010883 99999 SANDANE/ANDA                  NO NO    ENSD  +61833 +006117 +00600
+010884 99999 SKIEN GEITERYGGEN             NO NO    ENSN  +59183 +009567 +01450
+010885 99999 BATSFJORD                     NO NO    ENBS  +70600 +029733 +01530
+010886 99999 SORKJOSEN                     NO NO    ENSR  +69783 +020950 +00050
+010890 99999 KIRKENES                      NO NO    ENKR  +69733 +029900 +00910
+010920 99999 MAKKAUR FRY                   NO NO          +70700 +030083 +00090
+010970 99999 SVARTNES                      NO NO    ENSS  +70350 +031050 +00120
+010980 99999 VARDO                         NO NO          +70367 +031100 +00150
+010985 99999                                                                   
+010986 99999                                                                   
+010987 99999                                                                   
+011010 99999 BOGUS NORWEGIAN               NO NO                               
+011020 99999 SKLINNA FYR                   NO NO          +65200 +011000 +00160
+011025 99999 HEIDRUN                       NO NO    ENHE  +65333 +007317 +00800
+011030 99999 LEKA                          NO NO          +65099 +011700 +00470
+011040 99999 ROTVAER                       NO NO          +68367 +015950 +00080
+011050 99999 SKOMVAER FYR                  NO NO          +67417 +011883 +00180
+011051 99999                                                                   
+011060 99999 ROEST III                     NO NO          +67517 +012100 +00020
+011070 99999 ROST FLYPLASS                 NO NO    ENRS  +67517 +012100 +00040
+011080 99999 VEGA-VALLSJO                  NO NO          +65700 +011850 +00090
+011090 99999 SKALVAER                      NO NO          +65867 +012183 +00060
+011100 99999 YTTERHOLMEN FYR               NO NO          +66000 +011683 +00330
+011110 99999                                                                   
+011120 99999 BRONNOYSUND/BRONNOY           NO NO    ENBN  +65467 +012217 +00090
+011130 99999 GLOMFJORD                     NO NO          +66800 +013983 +00390
+011133 99999 DAGALI                        NO NO    ENDI  +60417 +008517 +08180
+011150 99999 MYKEN                         NO NO          +66767 +012483 +00130
+011160 99999 SANDNESSJOEN/STOKKA           NO NO    ENST  +65967 +012467 +00170
+011170 99999 TJOTTA                        NO NO          +65833 +012433 +00210
+011210 99999 NORD-SOLVAER                  NO NO          +66367 +012617 +00100
+011220 99999 MOSJOEN KJAERSTAD             NO NO    ENMS  +65783 +013217 +00730
+011240 99999 KJOBLI I SNASA                NO NO          +64167 +012467 +01950
+011310 99999 GLAPEN LIGHTHOUSE             NO NO          +67883 +013050 +00310
+011340 99999 MAJAVATN III                  NO NO          +65183 +013417 +03390
+011370 99999 STOTT                         NO NO          +66933 +013450 +00120
+011380 99999 TENNHOLMEN (LGT-H)            NO NO          +67300 +013500 +00140
+011410 99999 LEKNES                        NO NO    ENLK  +68150 +013617 +00260
+011440 99999 HELLIGVAER II                 NO NO          +67667 +013900 +00240
+011450 99999 KVALNES I LOFOTEN             NO NO          +68350 +013967 +00150
+011460 99999                                                                   
+011470 99999 VARNTRESK                     NO NO          +65750 +014183 +04060
+011490 99999 RANA-BASMOEN                  NO NO          +66333 +014100 +00420
+011500 99999                                                                   
+011501 99999                                                                   
+011505 99999                                                                   
+011510 99999 MO I RANA/ROSSVOLL            NO NO    ENRA  +66367 +014300 +00700
+011520 99999 BODO VI                       NO NO    ENBO  +67267 +014367 +00130
+011540 99999 LITLOY FYR                    NO NO          +68583 +014300 +00300
+011550 99999 BO I VESTERALEN II            NO NO          +68633 +014467 +00120
+011560 99999 BO I VESTERALEN               NO NO          +68600 +014433 +00080
+011600 99999 SKROVA FYR                    NO NO          +68150 +014650 +00110
+011610 99999 SVOLVAER/HELLE                NO NO    ENSH  +68250 +014667 +00090
+011620 99999 STORKMARKNES/SKAGEN           NO NO    ENSK  +68583 +015017 +00030
+011630 99999 BOLNA                         NO NO          +66500 +015250 +05490
+011650 99999 GROTOY                        NO NO          +67833 +014783 +00060
+011670 99999 SORTLAND                      NO NO          +68700 +015417 +00030
+011680 99999 KLEIVA I SORTLAND             NO NO          +68650 +015283 +00230
+011690 99999 SALTDAL                       NO NO          +66850 +015317 +00810
+011691 99999                                                                   
+011700 99999 FAUSKE-VETEN                  NO NO          +67233 +015317 +01650
+011720 99999 FINNOY I HAMAROY              NO NO          +68000 +015617 +00530
+011730 99999                                                                   
+011751 99999                                                                   
+011760 99999 KONGSVIK                      NO NO          +68567 +016267 +00250
+011800 99999 HARSTAD                       NO NO          +68800 +016533 +00450
+011820 99999 EVENSKJER                     NO NO          +68583 +016583 +00070
+011830 99999 EVENES                        NO NO    ENEV  +68517 +016683 +00260
+011840 99999 SANDSOY I SENJA               NO NO          +68933 +016683 +00450
+011841 99999                                                                   
+011890 99999 LILAND                        NO NO          +68483 +016883 +00150
+011895 99999                                                                   
+011910 99999 SKJOMEN-SLETTJORD             NO NO          +68283 +017317 +00060
+011930 99999 NARVIK/FRAMNES                NO NO          +68433 +017400 +00300
+011940 99999 NARVIK III                    NO NO    ENNK  +68467 +017500 +00230
+011960 99999 TENNEVOLL                     NO NO          +68750 +017817 +00210
+011990 99999 SIHCCAJAVRI                   NO NO          +68750 +023533 +03820
+012030 99999 KRAKENES                      NO NO          +62033 +004983 +00410
+012050 99999 SVINOY FYR                    NO NO          +62333 +005267 +00410
+012070 99999 FISKABYGD                     NO NO          +62100 +005583 +00410
+012090 99999 ORSTA-VOLDA/HOVDEN            NO NO    ENOV  +62183 +006067 +00740
+012091 99999 ORSTA-VOLDA/HOVD              NO NO    ENOV  +62183 +006050 +00740
+012100 99999 ALESUND/VIGRA                 NO NO    ENAL  +62567 +006117 +00220
+012120 99999 ONA II                        NO NO          +62867 +006533 +00150
+012150 99999 HJELVIK MYRBO                 NO NO          +62617 +007233 +00350
+012160 99999 HJELVIK I ROMSDAL             NO NO          +62617 +007217 +00160
+012161 99999                                                                   
+012170 99999 MOLDE/ARO                     NO NO    ENML  +62750 +007267 +00030
+012180 99999 TAFJORD                       NO NO          +62233 +007417 +00170
+012220 99999                                                                   
+012230 99999 KRISTIANSUND/KVERNB           NO NO    ENKB  +63117 +007833 +00620
+012240 99999 SKALMEN FYR                   NO NO          +63467 +007750 +00130
+012250 99999 VEIHOLMEN                     NO NO          +63517 +007950 +00050
+012270 99999 TINGVOLL-HANEM                NO NO          +62833 +008300 +00690
+012280 99999 SULA                          NO NO          +63850 +008467 +00060
+012300 99999 AURSJOEN                      NO NO          +62400 +008567 +08690
+012310 99999 LESJASKOG                     NO NO          +62233 +008367 +06210
+012320 99999 VINJEORA II                   NO NO          +63200 +009000 +00470
+012330 99999 DOMBAAS                       NO NO          +62083 +009117 +06380
+012340 99999 ORKDAL THAMSHAMM              NO NO          +63317 +009850 +00040
+012350 99999 DOMBAS-KIRKENAER              NO NO          +62083 +009133 +06450
+012360 99999 KJOREMSGRENDE                 NO NO          +62100 +009050 +06260
+012370 99999 FOKSTUA II                    NO NO          +62150 +009283 +09740
+012380 99999 FOKSTUA II                    NO NO          +62117 +009283 +09740
+012400 99999 HALTEN FYR                    NO NO          +64167 +009400 +00160
+012410 99999 ORLAND III                    NO NO    ENOL  +63700 +009600 +00070
+012430 99999 SONGLI                        NO NO          +63333 +009650 +03000
+012450 99999 OPPDAL-SETER                  NO NO          +62600 +009667 +06060
+012480 99999 VALLERSUND                    NO NO          +63850 +009733 +00040
+012520 99999 BERKAK-LYNGHOLT               NO NO          +62817 +010017 +04750
+012570 99999 TRONDHEIM/VOLL                NO NO          +63417 +010450 +01270
+012580 99999 TRONDHEIM (TYHOLT)            NO NO          +63417 +010433 +01130
+012590 99999 BUHOLMRASA FYR                NO NO          +64400 +010450 +00180
+012620 99999 NORDOYAN FYR                  NO NO          +64800 +010550 +00330
+012650 99999 TYNSET-HANSMOEN               NO NO          +62267 +010733 +04840
+012680 99999                                                                   
+012710 99999 TRONDHEIM/VERNES              NO NO    ENVA  +63467 +010933 +00170
+012740 99999 SELBU-STUBBE                  NO NO          +63200 +011117 +02420
+012770 99999 STEINKJER                     NO NO          +64016 +011450 +00800
+012771 99999 LEVANGER-EGGEN                NO NO          +63717 +011233 +00950
+012780 99999 VERDAL-REPPE                  NO NO          +63783 +011683 +00830
+012800 99999 NAMDALSEID-VENGSTAD           NO NO          +64132 +011333 +01180
+012810 99999 NAMSSKOGAN                    NO NO          +64717 +012833 +01400
+012820 99999 RORVIK/RYUM                   NO NO    ENRM  +64833 +011150 +00040
+012823 99999 RORVIK/RYUM                   NO NO          +64850 +011233 +00140
+012880 99999 ROROS                         NO NO          +62567 +011383 +06300
+012890 99999 ROROS LUFTHAVN                NO NO    ENRO  +62583 +011350 +06260
+012891 99999 ROROS/AIRPORT                 NO NO    ENRO  +62583 +011383 +06260
+012900 99999 NAMSOS LUFTHAVN               NO NO    ENNM  +64467 +011583 +00020
+012920 99999 MERAKER-UTSYN                 NO NO          +63417 +011700 +02400
+012930 99999 MERAKER-EGGE                  NO NO          +63417 +011733 +01710
+012940 99999                                                                   
+012950 99999 HOYLANDET-DRAG.               NO NO          +64550 +012150 +00270
+012960 99999 BERG I SNASA                  NO NO          +64250 +012417 +01270
+012980 99999 NORDLI-HOLAND                 NO NO          +64450 +013717 +04330
+013000 99999 GULLFAKS C                    NO NO          +61200 +002267 +00780
+013005 99999 STATFJORD OIL RIG &           NO NO    ENSF  +61217 +001833 +00150
+013040 99999 YTTEROYANE FYR                NO NO          +61567 +004683 +00250
+013060 99999 HELLISOY FYR                  NO NO          +60750 +004717 +00230
+013070 99999 FEDJE                         NO NO          +60750 +004717 +00200
+013090 99999 KINN ISLAND                   NO NO          +61567 +004800 +00100
+013100 99999 FLORO                         NO NO    ENFL  +61583 +005033 +00090
+013110 99999 BERGEN/FLESLAND               NO NO    ENBR  +60283 +005233 +00500
+013160 99999 BERGEN-FREDRIKSBERG           NO NO          +60400 +005317 +00400
+013170 99999 BERGEN/FLORIDA                NO NO          +60383 +005333 +00360
+013180 99999 SANDANE                       NO NO          +61783 +006183 +00510
+013190 99999 TAKLE                         NO NO          +61033 +005383 +00380
+013200 99999 SANDANE/ANDA                  NO NO    ENSD  +61833 +006117 +00600
+013210 99999 STRYN                         NO NO          +61900 +006550 +02080
+013220 99999 FORDE-TEFRE                   NO NO          +61467 +005917 +00640
+013230 99999 FORDE/BRINGELANDSAS           NO NO          +61400 +005767 +03190
+013250 99999 MODALEN II                    NO NO          +60833 +005950 +01140
+013270 99999 KVAMSKOGEN/JONSHOGD           NO NO          +60383 +005967 +04520
+013280 99999 KVAMSKOGEN                    NO NO          +60400 +005917 +04080
+013290 99999 KVAMSOY                       NO NO          +60350 +006267 +00500
+013300 99999 OMASTRAND                     NO NO          +60217 +005983 +00060
+013320 99999 FJAERLAND BREMUSEET           NO NO          +61433 +006767 +00030
+013340 99999                                                                   
+013360 99999 VOSS-BO                       NO NO    ENBM  +60650 +006500 +01220
+013370 99999 VOSSEVANGEN                   NO NO          +60633 +006433 +00550
+013380 99999 VANGSNES                      NO NO          +61167 +006650 +00510
+013390 99999 VANGSNES                      NO NO          +61167 +006650 +00530
+013400 99999 FET I EIDFJORD                NO NO          +60417 +007283 +07370
+013410 99999 EIDFJORD-BU                   NO NO          +60467 +006867 +01660
+013420 99999 ULLENSVANG FORSOKS.           NO NO          +60317 +006650 +00120
+013440 99999 MJOLFJELL                     NO NO          +60700 +006950 +06950
+013450 99999 OLDEN-VANGBERG                NO NO          +61867 +006750 +00780
+013470 99999 SOGNDAL/HAUKASEN              NO NO    ENSG  +61150 +007133 +04970
+013471 99999 SOGNDAL/HAUKASEN              NO NO    ENSG  +61167 +007133 +04980
+013500 99999 FINSEVATN                     NO NO          +60600 +007533 +12080
+013510 99999 FINSE III                     NO NO          +60600 +007517 +12240
+013520 99999                                                                   
+013550 99999 LAERDAL-MOLDO                 NO NO          +61067 +007517 +00360
+013560 99999 LAPPSTEINEN (AUT)             NO NO          +60433 +007817 +11700
+013570 99999 FORTUN                        NO NO          +61500 +007700 +00350
+013590 99999 GEILO OLDEBRATEN              NO NO          +60533 +008200 +07730
+013591 99999                                                                   
+013600 99999 BRATA-SLETTOM                 NO NO          +61900 +007900 +06640
+013610 99999 FANARAKEN                     NO NO          +61517 +007900 +20620
+013630 99999                                                                   
+013640 99999 GEILO-GEILOSTOLEN             NO NO          +60517 +008217 +08100
+013650 99999 FILEFJELL/GROVSTO             NO NO          +61183 +008233 -99999
+013660 99999 SOGNEFJELL                    NO NO          +61567 +008000 +14150
+013670 99999 FAGERNES                      NO NO          +60983 +009233 +03650
+013671 99999 BEITOSTOLEN                   NO NO          +61233 +008933 +08280
+013680 99999 FAGERNES LEIRIN               NO NO    ENFG  +61000 +009300 +08220
+013690 99999 ABJORSBRATE                   NO NO          +60917 +009283 +06390
+013700 99999 SKABU-STORSLAEN               NO NO          +61517 +009383 +08650
+013710 99999 LOKEN I VOLBU                 NO NO          +61117 +009067 +05250
+013720 99999 NESBYEN-SKOGLUND              NO NO          +60567 +009133 +01670
+013730 99999 VAGAMO                        NO NO          +61867 +009100 +03710
+013740 99999 VEST-TORPA II                 NO NO          +60933 +010033 +05420
+013741 99999                                                                   
+013743 99999 FAGERNES/LEIRIN   &           NO NO          +61000 +009300 +08220
+013750 99999 KVITFJELL                     NO NO          +61483 +009967 +10280
+013755 99999 GULLFAX (PLATFORM)            NO NO    ENGC  +61033 +002033 +00100
+013760 99999 FLUBERG/ROEN                  NO NO          +60783 +010200 +01600
+013780 99999 LILLEHAMMER-SAETHER           NO NO          +61100 +010467 +02390
+013790 99999 SOR-NESSET                    NO NO          +61883 +010150 +07390
+013800 99999 VENABU                        NO NO          +61650 +010117 +09400
+013801 99999 KITTILBU                      NO NO          +61167 +009967 +08160
+013820 99999 KISE PA HEDMARK               NO NO          +60767 +010817 +01280
+013830 99999 EVENSTAD-OVERENGET            NO NO          +61400 +011150 +02550
+013839 99999 HAMAR/STAFSBERG               NO NO    ENHA  +60817 +011083 +02330
+013840 99999 OSLO/GARDERMOEN               NO NO    ENGM  +60200 +011083 +02040
+013850 99999 HAMER                         NO NO          +60817 +011067 +02210
+013890 99999 RENA-HAUGEDALEN               NO NO          +61167 +011450 +02400
+013910 99999 FLISA                         NO NO          +60617 +012017 +01880
+013920 99999 FLISA II                      NO NO          +60617 +012017 +01860
+013930 99999 DREVSJO                       NO NO          +61883 +012050 +06740
+013970 99999 TRYSIL VEGSTASJON             NO NO          +61300 +012267 +03600
+014000 99999 EKOFISK                       NO NO          +56900 +003350 +00290
+014010 99999 FRIGG                         NO NO          +59983 +002250 +00480
+014030 99999 UTSIRA FYR                    NO NO          +59300 +004883 +00560
+014033 99999 EKOFISK OIL PLTFRM            NO NO    ENEK  +56550 +003250 +00030
+014035 99999 KARMOY                        NO NO          +59350 +005217 +00230
+014060 99999 SLATTEROY FYR                 NO NO          +59917 +005067 +00160
+014080 99999 HAUGESUND/KARMOY              NO NO    ENHD  +59350 +005217 +00240
+014090 99999 SKUDENES                      NO NO          +60983 +009283 +06390
+014110 99999 KVITSOY NORDBO                NO NO          +59067 +005417 +00220
+014120 99999 OBRESTAD                      NO NO          +58650 +005567 +00260
+014140 99999 ALFJORDEN                     NO NO          +59583 +005500 +00220
+014150 99999 STAVANGER/SOLA                NO NO    ENZV  +58883 +005633 +00090
+014170 99999 NEDRE VATS                    NO NO          +59483 +005750 +00650
+014180 99999 UPSANGER LAKE                 NO NO          +59850 +005767 +00600
+014211 99999                                                                   
+014220 99999 FISTER SIGMUNDSTAD            NO NO          +59167 +006033 +00250
+014230 99999 FISTER-TONNEVIK               NO NO          +59167 +006050 +00500
+014240 99999 SAUDA                         NO NO          +59650 +006367 +00060
+014250 99999 EIK HOVE                      NO NO          +58517 +006517 +00660
+014260 99999 LISTA                         NO NO          +58117 +006567 +00140
+014270 99999 LISTA FYR                     NO NO          +58117 +006567 +00140
+014280 99999 LISTA FLYPLASS                NO NO    ENLI  +58100 +006633 +00100
+014300 99999 MANDAL II                     NO NO          +58050 +007450 +01380
+014320 99999 SIRDAL-TJORHOM                NO NO          +58883 +006850 +05000
+014321 99999                                                                   
+014330 99999 MIDTLAEGER                    NO NO          +59833 +006983 +10810
+014340 99999 VAAGSLI                       NO NO          +59767 +007367 +08220
+014350 99999 HAUKELISAETER/BROYT           NO NO          +59817 +007217 +10190
+014360 99999 LINDESNES FYR                 NO NO          +57983 +007050 +00130
+014390 99999 KONSMO-HOYLAND                NO NO          +58250 +007317 +02600
+014400 99999 HYLESTAD-BROKKE               NO NO          +59100 +007500 +04430
+014410 99999 HOVDEN-LUNDANE                NO NO          +59583 +007383 +08360
+014420 99999 BYGLANDSFJORD                 NO NO          +58667 +007800 +02110
+014450 99999 SKAFSA                        NO NO          +59450 +008000 +00770
+014460 99999 OYFJELL-TROVATN               NO NO          +59567 +008200 +07140
+014470 99999 HOYDALSMO II                  NO NO          +59500 +008200 +05620
+014480 99999 OKSOY FYR                     NO NO          +58067 +008050 +00080
+014500 99999 MOSSTRAND II                  NO NO          +59833 +008183 +09770
+014520 99999 KRISTIANSAND/KJEVIK           NO NO    ENCN  +58200 +008083 +00170
+014530 99999 KRISTIANSAND/KJEVIK           NO NO          +58217 +008083 +00160
+014550 99999 TVEITSUND                     NO NO          +59033 +008517 +02550
+014590 99999 NELAUG                        NO NO          +58650 +008633 +01420
+014610 99999                                                                   
+014650 99999 TORUNGEN FYR                  NO NO          +58400 +008800 +00150
+014670 99999 LYNGOR FYR                    NO NO          +58633 +009150 +00050
+014680 99999 KONGSVINGER                   NO NO          +60183 +012000 +01480
+014690 99999 HONEFOSS HOYBY                NO NO          +60167 +010250 +01400
+014700 99999 GVARV                         NO NO          +59383 +009200 +00930
+014703 99999 NOTODDEN                      NO NO    ENNO  +59567 +009200 +00200
+014710 99999 VEGGLI II                     NO NO          +60050 +009150 +02750
+014730 99999 KONGSBERG BRANNSTAS           NO NO          +59617 +009633 +01730
+014740 99999 LYNGDAL I NUMEDAL             NO NO          +59900 +009533 +02940
+014750 99999 SKIEN-GEITERYGGEN             NO NO    ENSN  +59183 +009567 +01410
+014760 99999 JOMFRULAND FYR                NO NO          +58850 +009550 +00050
+014770 99999 KONGSBERG IV                  NO NO          +59667 +009650 +01690
+014780 99999 LANGOYTANGEN (LH) &           NO NO          +58983 +009767 +00060
+014800 99999 DRAMMEN BERSKOG               NO NO          +59750 +010000 +00080
+014810 99999 MELSOM                        NO NO          +59233 +010350 +00260
+014820 99999 FERDER FYR                    NO NO          +59033 +010533 +00080
+014825 99999 TORP                          NO NO    ENTO  +59200 +010267 +00880
+014830 99999 TORP                          NO NO    ENTO  +59200 +010267 +00880
+014840 99999 JELOY ISLAND                  NO NO          +59433 +010600 +00120
+014843 99999 OSEBERG                       NO NO    ENOA  +59317 +010450 +00150
+014860 99999 ASKER                         NO NO          +59850 +010433 +01630
+014870 99999 DONSKI                        NO NO          +59900 +010517 +00590
+014880 99999 OSLO/FORNEBU                  NO NO    ENFB  +59900 +010617 +00170
+014900 99999 TRYVASSHOGDA II               NO NO          +59983 +010683 +05280
+014920 99999 OSLO-BLINDERN                 NO NO          +59950 +010717 +00960
+014930 99999 SARPSBORG                     NO NO          +59283 +011117 +00570
+014940 99999 RYGGE                         NO NO    ENRY  +59383 +010783 +00530
+014950 99999 STROMTANGEN FYR               NO NO          +59150 +010833 +00100
+014960 99999 HOLAND-FOSSER                 NO NO          +59817 +011483 +01540
+014965 99999                                                                   
+014970 99999 PRESTEBAKKE                   NO NO          +59000 +011533 +01570
+014980 99999 MAGNOR                        NO NO          +59967 +012217 +01530
+014981 99999                                                                   
+014983 99999 STATFJORD OIL RIG &           NO NO                               
+014990 99999 VAEROY                        NO NO                               
+014993 99999 VAEROY                        NO NO    ENVY                       
+020001 99999 LJUNGBYHED                    SN SW    ESTL  +56083 +013200 +00440
+020120 99999 RITSEM                        SN SW          +67733 +017467 +05210
+020130 99999 RITSEM                        SN SW          +67733 +017467 +05330
+020180 99999                                                                   
+020200 99999 KATTERJAKK                    SN SW          +68417 +018167 +05170
+020220 99999 ABISKO                        SN SW          +68350 +018817 +03940
+020230 99999 TORNEHAMN (AUTO)              SN SW          +68433 +018633 +05120
+020240 99999 STORA SJOFALLET               SN SW          +67500 +018300 +04250
+020260 99999                                                                   
+020290 99999 TARFALA                       SN SW          +67917 +018600 +11460
+020310 99999 RENSJON                       SN SW          +68067 +019833 +04930
+020320 99999 TORNETRASK LAKE               SN SW          +68217 +019717 +03930
+020360 99999 NIKKALUOKTA                   SN SW          +67850 +019033 +04680
+020380 99999 LATNIVAARA                    SN SW          +67250 +020267 +04530
+020430 99999 ESRANGE                       SN SW          +67933 +021067 +03410
+020440 99999 KIRUNA                        SN SW    ESNQ  +67817 +020333 +04470
+020450 99999 KIRUNA GEOFYSISKA             SN SW          +67833 +020433 +03410
+020480 99999 MALMBERGET                    SN SW          +67133 +020667 +03650
+020490 99999 GALLIVARE                     SN SW    ESNG  +67150 +020650 +03600
+020500 99999 KATTERJAKK                    SN SW          +68417 +018167 +05170
+020510 99999                                                                   
+020520 99999 KVIKKJOKK         &           SN SW          +66950 +017750 +03370
+020530 99999 MALMBERGET                    SN SW          +67133 +020667 +03650
+020540 99999 NEDRE SOPPERO                 SN SW          +68050 +021767 +03600
+020550 99999 NAIMAKKA                      SN SW          +68683 +021533 +04020
+020560 99999                                                                   
+020570 99999 KALLAX/LULEA (AFB)            SN SW    ESPA  +65550 +022133 +00170
+020580 99999 HAPARANDA         &           SN SW          +65833 +024150 +00070
+020590 99999 GADDEDE                       SN SW          +64500 +014133 +03180
+020600 99999 NAIMAKKA                      SN SW          +68683 +021533 +04030
+020620 99999 OSTERSUND FROSON AB           SN SW          +63183 +014500 +03760
+020630 99999 ASELE                         SN SW          +64167 +017367 +03290
+020640 99999 SAITTAROVA                    SN SW          +67333 +022233 +02400
+020650 99999 SVEG              &           SN SW          +62033 +014367 +03600
+020660 99999 SUNDSVALL/HARNOSAND           SN SW    ESNN  +62533 +017450 +00040
+020670 99999 SARNA                         SN SW          +61683 +013133 +05050
+020680 99999 DELSBO                        SN SW          +61800 +016567 +00930
+020690 99999 SODERHAMN (SWE-AFB)           SN SW    ESCL  +61267 +017100 +00260
+020700 99999 GUSTAVSFORS       &           SN SW          +60150 +013800 +01980
+020710 99999                                                                   
+020711 99999 BORLANGE                      SN SW          +60417 +015517 +01530
+020720 99999 PARKALOMPOLO                  SN SW          +67733 +022833 +03130
+020730 99999 KARLSTAD          &           SN SW    ESSQ  +59367 +013467 +00460
+020740 99999 OREBRO/EKEBY                  SN SW          +59267 +015333 +00330
+020750 99999 VASTERAS/HASSLO AFB           SN SW    ESCD  +59583 +016633 +00060
+020760 99999 UPPSALA           &           SN SW    ESCM  +59883 +017600 +00210
+020770 99999 STOCKHOLM/BROMMA  &           SN SW    ESSB  +59350 +017950 +00150
+020790 99999 SATENAS (SWE-AFB)             SN SW    ESIB  +58433 +012700 +00540
+020800 99999 KARESUANDO                    SN SW          +68450 +022450 +03310
+020810 99999                                                                   
+020820 99999 LANDSORT          &           SN SW          +58750 +017867 +00320
+020830 99999 GOTSKA SANDON     &           SN SW          +58400 +019200 +00120
+020840 99999 LANNAVAARA        &           SN SW          +68050 +022000 +03600
+020850 99999 RANGEDALA (AUTO)              SN SW          +57717 +013117 +02590
+020860 99999 LAINIO                        SN SW          +67767 +022350 +03250
+020870 99999 JONKOPING         &           SN SW    ESSJ  +57767 +014083 +02260
+020880 99999 KOMPELUSVAARA                 SN SW          +67083 +022217 +02630
+020890 99999 OLANDS NORRA UDDE &           SN SW          +57367 +017100 +00040
+020900 99999 VISBY             &           SN SW    ESSV  +57667 +018350 +00510
+020910 99999 KULLEN (LGT-H)                SN SW          +56300 +012450 +00720
+020920 99999 MUODOSLOMPOLO                 SN SW          +67950 +023467 +02400
+020930 99999 VAXJO             &           SN SW          +56867 +014800 +01660
+020940 99999 UNGSKAR                       SN SW          +56033 +015800 +00010
+020950 99999 KALMAR            &           SN SW    ESDC  +56683 +016300 +00060
+020960 99999 PAJALA                        SN SW          +67217 +023400 +01680
